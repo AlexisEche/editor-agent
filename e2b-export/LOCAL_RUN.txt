@@ -1,0 +1,10 @@
+Proyecto exportado desde el sandbox E2B (sin node_modules ni .next).
+
+1. cd /Users/alexisdev/Desktop/work/fullAgentDev/e2b-export/web-app
+2. npm install
+3. npm run dev
+
+Abrí http://localhost:3000
+
+Podés cerrar o borrar el sandbox en e2b.dev: el código ya está acá.
+Atajo: ./scripts/run-exported-next.sh /Users/alexisdev/Desktop/work/fullAgentDev/e2b-export/web-app
